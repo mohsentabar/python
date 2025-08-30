@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    background-color: brown;
+}
+h1{
+    background-color: aqua;
+    font-size: larger;
+    font-family: Arial;
+    border: 2px solid black;
+    padding: 50px;
+}
+
+table{
+    border: 2px solid;
+    border-collapse: collapse;
+}
+th,td{
+    border: 2px solid;
+    padding: 20px;
+}
+.farsi{
+    background-color: blue;
+    text-align: right;
+}
+#aysy{
+    text-align: left;
+}
